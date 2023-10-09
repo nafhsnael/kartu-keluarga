@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kartu Keluarga</title>
+</head>
+<body bgcolor="#D6EAF8">
+    
+    <br>
+    <img src="./pancasila.jpeg" width="150" align="left" hspace="20" vspace="10">
+    <br><br>
+   <h1 align="center"><b>KARTU KELUARGA</b></h1>
+   <h3 align="center"><b>No.1234567899876</b></h3>
+   <br>
+   <br>
+
+<table border="1" cellspacing="0" cellpadding="20" align="center" width="100%">
+    <tr>
+        <td>No</td>
+        <th>Nama Lengkap</th>
+        <th>NIK</th>
+        <th>Jenis Kelamin</th>
+        <th>Tempat Lahir</th>
+        <th>Tanggal Lahir</th>
+        <th>Agama</th>
+        <th>Pendidikan</th>
+        <th>Jenis Pekerjaan</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th align="center">(1)</th>
+        <th align="center">(2)</th>
+        <th align="center">(3)</th>
+        <th align="center">(4)</th>
+        <th align="center">(5)</th>
+        <th align="center">(6)</th>
+        <th align="center">(7)</th>
+        <th align="center">(8)</th>
+    </tr>
+    <tr>
+        <th>1</th>
+        <th>FACHRON YULISTIYANTO</th>
+        <th>004071985</th>
+        <th>L</th>
+        <th>MALANG</th>
+        <th>04-07-</th>
+        <th>ISLAM</th>
+        <th>S1</th>
+        <th>WIRAUSAHA</th>
+    </tr>
+    <tr>
+        <th>2</th>
+        <th>IKA WINARTI</th>
+        <th>00578955324</th>
+        <th>P</th>
+        <th>MALANG</th>
+        <th>27-02-</th>
+        <th>ISLAM</th>
+        <th>SMA</th>
+        <th>IBU RUMAH TANGGA</th>
+    </tr>
+    <tr>
+        <th>3</th>
+        <th>NAFHISA NAILAH HUSNAH</th>
+        <th>009258453525</th>
+        <th>P</th>
+        <th>MALANG</th>
+        <th>09-12-2006</th>
+        <th>ISLAM</th>
+        <th>BELUM TAMAT</th>
+        <th>BELUM BEKERJA</th>
+    </tr>
+    <tr>
+        <th>4</th>
+        <th>MUHAMMAD KEVIN FAWWAZ</th>
+        <th>0020584692415</th>
+        <th>L</th>
+        <th>MALANG</th>
+        <th>19-03-2008</th>
+        <th>ISLAM</th>
+        <th>BELUM TAMAT</th>
+        <th>BELUM BEKERJA</th>
+    </tr>
+</table>
+<br>
+<br>
+<br>
+<table border="1" cellspacing="0" cellpadding="20" align="center" width="100%">
+    <tr>
+        <td rowspan="2">No</td>
+        <th rowspan="2">Status Perkawinan</th>
+        <th rowspan="2">Status Hubungan Dalam Keluarga</th>
+        <th rowspan="2">Kewarganegaraan</th>
+        <th colspan="2">Dokumen Imigrasi</th>
+        <th colspan="2">Nama Orang Tua</th>
+    <tr>
+        <th align="center">No. Paspor</th>
+        <th align="center">No. KITAP</th>
+        <th align="center">Ayah</th>
+        <th align="center">Ibu</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th align="center">(9)</th>
+        <th align="center">(10)</th>
+        <th align="center">(11)</th>
+        <th align="center">(12)</th>
+        <th align="center">(13)</th>
+        <th align="center">(14)</th>
+        <th align="center">(15)</th>
+    </tr>
+    <tr>
+       <th>1</th>
+       <th>KAWIN</th>
+       <th>KEPALA KELUARGA</th>
+       <th>WNI</th>
+       <th>-</th>
+       <th>-</th>
+       <th>SUHARI</th>
+       <th>UMI</th>
+    </tr>
+    <tr>
+        <th>2</th>
+        <th>KAWIN</th>
+        <th>ISTRI</th>
+        <th>WNI</th>
+        <th>-</th>
+        <th>-</th>
+        <th>HADI</th>
+        <th>TATIK KARYATI</th>
+    </tr>
+    <tr>
+        <th>3</th>
+        <th>BELUM KAWIN</th>
+        <th>ANAK</th>
+        <th>WNI</th>
+        <th>-</th>
+        <th>-</th>
+        <th>FACHRON YULISTIYANTO</th>
+        <th>IKA WINARTI</th>
+    </tr>
+    <tr>
+        <th>4</th>
+        <th>BELUM KAWIN</th>
+        <th>ANAK</th>
+        <th>WNI</th>
+        <th>-</th>
+        <th>-</th>
+        <th>FACHRON YULISTIYANTO</th>
+        <th>IKA WINARTI</th>
+    </tr>
+</body>
+</html>
